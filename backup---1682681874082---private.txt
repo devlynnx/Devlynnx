@@ -1,0 +1,132 @@
+﻿https://lingojam.com/edit/db6f1425b2fdb3da624188bb381d529c
+
+
+###name, Name of your translator...:
+Private
+
+
+###subtitle, Subtitle (optional):
+
+
+
+###language1, Language1 name...:
+
+
+
+###language2, Language2 name...:
+
+
+
+###description, Description...:
+
+
+
+###email, Admin email (optional)...:
+
+
+
+###phrases1, Language1...:
+
+
+
+###phrases2, Language2...:
+
+
+
+###words1, Language1...:
+
+
+
+###words2, Language2...:
+
+
+
+###intraword1, Language1...:
+
+
+
+###intraword2, Language2...:
+
+
+
+###prefixes1, Language1...:
+
+
+
+###prefixes2, Language2...:
+
+
+
+###suffixes1, Language1...:
+
+
+
+###suffixes2, Language2...:
+
+
+
+###regex1, Replace this...:
+
+
+
+###regex2, with this...:
+
+
+
+###rev_regex1, Replace this...:
+
+
+
+###rev_regex2, with this...:
+
+
+
+###ordering1, Language1...:
+
+
+
+###ordering2, Language2...:
+
+
+
+###defaulttext, One random default text string per line...:
+
+
+
+###disable-reverse, :
+on
+
+
+###custom-script, Define your functions here...:
+
+
+
+###title-extra, e.g. '(and reverse translation)':
+
+
+
+###background-image-source, http://example.com/my_image.png:
+
+
+
+###title-font-name, Name of custom font...:
+
+
+
+###title-font-size, Size of title (default=5.5)...:
+
+
+
+###language1-font, Language1 font...:
+
+
+
+###language2-font, Language2 font...:
+
+
+
+###language1-font-size, Language1 font size (default=24)...:
+
+
+
+###language2-font-size, Language2 font size (default=24)...:
