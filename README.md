@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devlynnx
-- 👀 I’m interested in ...Freedom
-- 🌱 I’m currently learning ...Matrix
-- 💞️ I’m looking to collaborate on ...All things new!
+- 👀 I’m interested in ...Living Freedom
+- 🌱 I’m currently learning ...Nox Matrix
+- 💞️ I’m looking to collaborate on ...All Things New!
 - 📫 How to reach me ...@devlynnx
 
 <!---
